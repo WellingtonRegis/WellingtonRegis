@@ -1,9 +1,9 @@
 <h1 align="center">Olá, me chamo Wellington Ricardo Regis</h1>
 <h3 align="center">Sou backend, pai, marido e apaixonado em aprender e desenvolver!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wellingtonregis&label=Profile%20views&color=0e75b6&style=flat" alt="wellingtonregis" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=wellingtonregis&label=Profile%20views&color=0e75b6&style=flat" alt="wellingtonregis" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wellingtonregis" alt="wellingtonregis" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wellingtonregis" alt="wellingtonregis" /></a> </p>
 
 - 🔭 Atualmente estou trabalhando **fora de minha área, mas estou aberto á novas oportunidades!**
 
