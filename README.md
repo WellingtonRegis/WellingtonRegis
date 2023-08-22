@@ -1,16 +1,14 @@
-### Bem vindo(a) a meu Github! 
-
-##### <div align="center">Me chamo Wellington Ricardo -- Desenvolvedor Backend Jr </div>  
-  
-
 <div align="center">
-<img src="https://fluentincoffee.com/wp-content/webp-express/webp-images/uploads/2022/11/different-cups-of-coffee.png.webp" align="center" style="width: 100%" />
+<img src="https://www.linkpicture.com/q/banner_46.png" align="center" style="width: 100%" />
 </div>  
-  
 
 ###### <div align="center">"Um amigo que compartilha um café com você é um amigo para a vida toda ~☕"
 
+<div align="center">
+<img src="https://www.linkpicture.com/q/pngwing.com_42.png" align="center" height="100" width="100" />
+</div>  
 
+##### <div align="center">Me chamo Wellington Ricardo -- Desenvolvedor Backend Jr </div>  
 
 
 </div>  
@@ -20,7 +18,7 @@
 
 
 
-### Um pouco sobre mim:  
+### Um pouco sobre mim ---
 *Sou uma pessoa humilde e muito esforçada que vem almejando entrar no mercado de desenvolvimento e tecnologia desde muito tempo. Trabalhei por muitos anos fora desta área até que um grande amigo meu me apresentou á este mundo inacreditável e, com o incentivo e estudos certos me ajudou a trilhar meus primeiros passos que me levaram a querer ir ainda mais longe -- E aqui sigo correndo atrás de novas oportunidades de mostrar meu potencial.  Sei que ainda tenho muito a aprender e este é justamente o combustível que me impulsiona a seguir voando 🚀*  
 
 <img src="https://www.linkpicture.com/q/man-developing-website-on-desk.png" align="left" height="150" width="190" /> 
@@ -40,12 +38,7 @@
 <br/>  
 
 
-## Minhas habilidades 
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
+## Minhas habilidades ---
 
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
@@ -74,7 +67,7 @@
 <br/>  
 
 
-## Onde me encontrar  
+## Onde me encontrar  ---
 <div align="right">
 <a href="https://github.com/https://github.com/WellingtonRegis" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -88,7 +81,7 @@
 <br/>  
 
 
-## Github Stats  
+## Github Stats  ---
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=WellingtonRegis&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" /></div>  
 
 <br/>  
@@ -97,6 +90,12 @@
   
 
 <br/>  
+
+<div align="center">
+<img src="https://www.linkpicture.com/q/pngwing.com_42.png" align="center" height="100" width="100" />
+</div>  
+
+
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=4biajqdc3co719n9c52kzhe3v&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=21711e" /></div>  
 
@@ -113,4 +112,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
